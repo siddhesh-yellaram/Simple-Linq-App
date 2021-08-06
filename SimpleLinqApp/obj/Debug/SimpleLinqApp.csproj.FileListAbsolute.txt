@@ -1,0 +1,7 @@
+D:\test\.NET\SimpleLinqApp\bin\Debug\SimpleLinqApp.exe.config
+D:\test\.NET\SimpleLinqApp\bin\Debug\SimpleLinqApp.exe
+D:\test\.NET\SimpleLinqApp\bin\Debug\SimpleLinqApp.pdb
+D:\test\.NET\SimpleLinqApp\obj\Debug\SimpleLinqApp.csproj.AssemblyReference.cache
+D:\test\.NET\SimpleLinqApp\obj\Debug\SimpleLinqApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\SimpleLinqApp\obj\Debug\SimpleLinqApp.exe
+D:\test\.NET\SimpleLinqApp\obj\Debug\SimpleLinqApp.pdb
